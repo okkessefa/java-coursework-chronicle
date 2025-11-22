@@ -36,7 +36,7 @@ Example layout:
 ├── year1/
 │   ├── semester1/
 │      ├── ComputerProgrammingI/
-│      │   ├── 
+│      │   ├── basicCalculator.java
 │      │   
 │      │   
 │      ├── ComputerProgrammingILab/
