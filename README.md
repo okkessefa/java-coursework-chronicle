@@ -37,6 +37,7 @@ Example layout:
 │   ├── semester1/
 │      ├── ComputerProgrammingI/
 │      │   ├── basicCalculator.java
+│      │   ├── gettingDigitOfInput.java
 │      │   
 │      │   
 │      ├── ComputerProgrammingILab/
