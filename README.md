@@ -38,7 +38,7 @@ Example layout:
 │      ├── ComputerProgrammingI/
 │      │   ├── basicCalculator.java
 │      │   ├── gettingDigitOfInput.java
-│      │   
+│      │   ├── dayOfWeekSwitchCase.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
