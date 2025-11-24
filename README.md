@@ -40,6 +40,7 @@ Example layout:
 │      │   ├── gettingDigitOfInput.java
 │      │   ├── dayOfWeekSwitchCase.java
 │      │   ├── atmProgram.java
+│      │   ├── greteastAndSmallestNumbersProcess.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
