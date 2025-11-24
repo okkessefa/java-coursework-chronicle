@@ -39,6 +39,7 @@ Example layout:
 │      │   ├── basicCalculator.java
 │      │   ├── gettingDigitOfInput.java
 │      │   ├── dayOfWeekSwitchCase.java
+│      │   ├── atmProgram.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
