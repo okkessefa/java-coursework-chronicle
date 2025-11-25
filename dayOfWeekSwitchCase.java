@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DayOfWeekSwitch {
+public class dayOfWeekSwitchCase {
 
     public static void main(String[] args) {
         // Switch case example about day of week depends on user input 

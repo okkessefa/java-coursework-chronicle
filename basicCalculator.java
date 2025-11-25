@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class PrimeNumber {
+public class basicCalculator {
 
     public static void main(String[] args) {
         // devlearing a scanner object

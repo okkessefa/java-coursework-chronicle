@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FindingTHeDiffrenciesBiggeestAndSmallest {
+public class greteastAndSmallestNumbersProcess{
     // MAin purpose is finding greteast and smallest value among 4 for this example
     public static void main(String[] args) {
         var input = new Scanner(System.in);

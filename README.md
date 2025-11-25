@@ -41,6 +41,7 @@ Example layout:
 │      │   ├── dayOfWeekSwitchCase.java
 │      │   ├── atmProgram.java
 │      │   ├── greteastAndSmallestNumbersProcess.java
+│      │   ├── ticketDiscountPtogram
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 

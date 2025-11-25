@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class CalculateSumOfDigitsOfNumber {
+public class gettingDigitOfInput{
     public static void main(String[] args){
         // declearing a scanner object to use in the program
         Scanner scan = new Scanner(System.in);
