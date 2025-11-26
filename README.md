@@ -43,6 +43,7 @@ Example layout:
 │      │   ├── greteastAndSmallestNumbersProcess.java
 │      │   ├── ticketDiscountPtogram
 │      │   ├── menuSwitchCase.java
+│      │   ├── IsPrimeNumber.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
