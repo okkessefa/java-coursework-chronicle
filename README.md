@@ -42,6 +42,7 @@ Example layout:
 │      │   ├── atmProgram.java
 │      │   ├── greteastAndSmallestNumbersProcess.java
 │      │   ├── ticketDiscountPtogram
+│      │   ├── menuSwitchCase.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
