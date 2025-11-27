@@ -44,6 +44,7 @@ Example layout:
 │      │   ├── ticketDiscountPtogram
 │      │   ├── menuSwitchCase.java
 │      │   ├── IsPrimeNumber.java
+│      │   ├── fibonacciSeries.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
