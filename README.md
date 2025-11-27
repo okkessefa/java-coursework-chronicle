@@ -45,6 +45,7 @@ Example layout:
 │      │   ├── menuSwitchCase.java
 │      │   ├── IsPrimeNumber.java
 │      │   ├── fibonacciSeries.java
+│      │   ├── GCDandLCM.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
