@@ -50,6 +50,7 @@ Example layout:
 │      │   ├── drawingParallelogram.java
 │      │   ├── TylorSeriesxPowerofEulerNumber.java
 │      │   ├── TylorSeriesSinexFunction.java
+│      │   ├── TylorSeriesCosineFunction.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
