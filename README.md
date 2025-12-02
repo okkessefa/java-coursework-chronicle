@@ -49,6 +49,7 @@ Example layout:
 │      │   ├── NumberGuessGame.java
 │      │   ├── drawingParallelogram.java
 │      │   ├── TylorSeriesxPowerofEulerNumber.java
+│      │   ├── TylorSeriesSinexFunction.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
