@@ -51,6 +51,7 @@ Example layout:
 │      │   ├── TylorSeriesxPowerofEulerNumber.java
 │      │   ├── TylorSeriesSinexFunction.java
 │      │   ├── TylorSeriesCosineFunction.java
+│      │   ├── logarithmOneplusxbasedonE.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
