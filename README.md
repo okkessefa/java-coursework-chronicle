@@ -52,6 +52,7 @@ Example layout:
 │      │   ├── TylorSeriesSinexFunction.java
 │      │   ├── TylorSeriesCosineFunction.java
 │      │   ├── logarithmOneplusxbasedonE.java
+│      │   ├── nestedForLoopsDrawingShape1.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
