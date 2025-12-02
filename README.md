@@ -48,6 +48,7 @@ Example layout:
 │      │   ├── GCDandLCM.java
 │      │   ├── NumberGuessGame.java
 │      │   ├── drawingParallelogram.java
+│      │   ├── TylorSeriesxPowerofEulerNumber.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
