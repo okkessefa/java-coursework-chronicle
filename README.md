@@ -63,6 +63,7 @@ Example layout:
 │      │   ├── ballThrowHeight.java
 │      │   ├── StudentMarkTable.java
 │      │   ├── CinemaSeatReservation.java
+│      │   ├── StudentAttendanceChecking.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
