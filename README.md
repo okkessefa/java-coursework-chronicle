@@ -57,6 +57,7 @@ Example layout:
 │      │   ├── IsPolindromeNumber.java
 │      │   ├── nestedForLoopDrawingShape3.java
 │      │   ├── DrawingTree.java
+│      │   ├── ascendingNumberDiamond.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
