@@ -59,6 +59,8 @@ Example layout:
 │      │   ├── DrawingTree.java
 │      │   ├── ascendingNumberDiamond.java
 │      │   ├── butterflyShape.java
+│      │   ├── butterflyShape.java
+│      │   ├── ballThrowHeight.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
