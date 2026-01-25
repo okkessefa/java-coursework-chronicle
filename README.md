@@ -70,6 +70,7 @@ Example layout:
 │      │   ├── findingSecondDistinctNumber.java
 │      │   ├── XOXgame.java
 │      │   ├── PaintingSquares.java
+│      │   ├── minefiledGame.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
