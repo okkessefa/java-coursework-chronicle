@@ -72,6 +72,7 @@ Example layout:
 │      │   ├── PaintingSquares.java
 │      │   ├── minefiledGame.java
 │      │   ├── amiralSunk.java
+│      │   ├── TreasureHuntGame.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
