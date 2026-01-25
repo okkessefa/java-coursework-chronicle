@@ -67,6 +67,7 @@ Example layout:
 │      │   ├── ReversingSidesofArrays.java
 │      │   ├── ReversingNumbers.java
 │      │   ├── validatingSimetricArrays.java
+│      │   ├── findingSecondDistinctNumber.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
