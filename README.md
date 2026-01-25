@@ -69,6 +69,7 @@ Example layout:
 │      │   ├── validatingSimetricArrays.java
 │      │   ├── findingSecondDistinctNumber.java
 │      │   ├── XOXgame.java
+│      │   ├── PaintingSquares.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
