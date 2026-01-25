@@ -58,6 +58,7 @@ Example layout:
 │      │   ├── nestedForLoopDrawingShape3.java
 │      │   ├── DrawingTree.java
 │      │   ├── ascendingNumberDiamond.java
+│      │   ├── butterflyShape.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
