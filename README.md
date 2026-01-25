@@ -66,6 +66,7 @@ Example layout:
 │      │   ├── StudentAttendanceChecking.java
 │      │   ├── ReversingSidesofArrays.java
 │      │   ├── ReversingNumbers.java
+│      │   ├── validatingSimetricArrays.java
 │      │   
 │      ├── ComputerProgrammingILab/
 │           ├── 
