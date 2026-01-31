@@ -33,9 +33,8 @@ Example layout:
 ```text
 .
 ├── README.md
-├── year1/
 │   ├── semester1/
-│      ├── ComputerProgrammingI/
+│      ├── computerProgrammingI/
 │      │   ├── basicCalculator.java
 │      │   ├── gettingDigitOfInput.java
 │      │   ├── dayOfWeekSwitchCase.java
@@ -77,5 +76,5 @@ Example layout:
 │      │   ├── EscapeFromDungeons.java
 │      │   
 │   ├── semester2/
-│      ├── ComputerProgrammingII/
+│      ├── computerProgrammingII/
 │      │   ├── EscapeFromDungeonsV2.java
