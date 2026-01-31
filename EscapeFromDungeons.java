@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 public class EscapeFromDungeons {
     public static void main(String[] args) {
+        // Declaring global utilities
         Scanner scan = new Scanner(System.in);
         Random rand = new Random();
         
