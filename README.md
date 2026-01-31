@@ -76,6 +76,6 @@ Example layout:
 │      │   ├── RomenToDecimal.java
 │      │   ├── EscapeFromDungeons.java
 │      │   
-│      ├── ComputerProgrammingILab/
-│           ├── 
-
+│   ├── semester2/
+│      ├── ComputerProgrammingII/
+│      │   ├── EscapeFromDungeonsV2.java
