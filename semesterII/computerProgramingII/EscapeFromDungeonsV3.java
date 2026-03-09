@@ -98,7 +98,7 @@ public class EscapeFromDungeonsV3 {
         
         do{
             // Crating visual map
-            char[][] map = new char[10][10];
+            char[][] map = new char[10][10];         
             for(int i = 0; i<map.length; i++){
                 for(int j =0; j<map[0].length; j++){
                     map[i][j] = '.';
@@ -113,13 +113,12 @@ public class EscapeFromDungeonsV3 {
             Position g3 = placeVariables(map, rand, 'G');
             Position g4 = placeVariables(map, rand, 'G');
             Position k1 = placeVariables(map, rand, 'K');
-            
-            
+
             int playerRow = p1.row();
             int playerColumn = p1.column();
             
             int keyRow = k1.row();
-            int  keyColumn = k1.column();
+            int keyColumn = k1.column();
             
             int ExitRow;
             int ExitColumn; 
@@ -128,8 +127,7 @@ public class EscapeFromDungeonsV3 {
                 ExitRow = e1.row();
                 ExitColumn = e1.column();
             }while(ExitRow == playerRow && ExitColumn == playerColumn);
-            
-            
+                    
             // placing ghosts
             int Ghost1Row = g1.row();
             int Ghost1Column = g1.column();
@@ -152,7 +150,7 @@ public class EscapeFromDungeonsV3 {
                 if(map[row][column] == '.'){   
                     map[row][column] = '#';
                     i++;
-                }    
+                }
             }while(i<=25);
             
             boolean keyObtained = false;
@@ -161,9 +159,7 @@ public class EscapeFromDungeonsV3 {
             System.out.println("Welcome to Dungeon Escape Game");
             do{
                 printMap(map);
-
                 char Userdirection = GetUserChioice(map, scan).charAt(0);
-                
                 //  user input matching with which direction up, down, left, right or nothing
                 if(Userdirection == 'W'){
                     if(playerRow-1<0){
@@ -185,7 +181,7 @@ public class EscapeFromDungeonsV3 {
                         playerRow--;
                     }
                     else if(map[playerRow-1][playerColumn] == 'E'){
-                        // if user want to reach exit there are two options
+                        // if user wants to reach exit there are two options
                         // Does user have key to open the gate
                         if((playerRow-1 == ExitRow && playerColumn == ExitColumn)){
                             // Yes user does
@@ -205,7 +201,6 @@ public class EscapeFromDungeonsV3 {
                         playerRow--;
                     }
                 }
-                        
                 else if(Userdirection == 'A'){
                     if(playerColumn-1<0){
                         System.out.println("Invalid attemps");
